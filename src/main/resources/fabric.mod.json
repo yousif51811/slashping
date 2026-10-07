@@ -3,9 +3,9 @@
 	"id": "slashping",
 	"version": "${version}",
 	"name": "/ping",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Simple and lightweight server ping command!",
 	"authors": [
-		"Me!"
+		"yousif51811"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
